@@ -1,7 +1,7 @@
 # 🎮 Jogo do Número Secreto
 
 <div align="center">
-  <p>🎯 Tente adivinhar o número secreto entre 1 e 100!</p>
+  <p>🎯 Tente adivinhar o número secreto entre 1 e 10!</p>
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
